@@ -1,4 +1,4 @@
-#include "sequence_processor.cpp"
+#include "sequence_processor.cuh"
 
 #ifdef __INTELLISENSE__
 #define CUDA_KERNEL(...)

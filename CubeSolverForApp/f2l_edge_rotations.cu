@@ -1,5 +1,5 @@
-#include "variables.cpp"
-#include "f2l_edge_rotations.cpp"
+#include "variables.cuh"
+#include "f2l_edge_rotations.cuh"
 
 #ifdef __INTELLISENSE__
 #define CUDA_KERNEL(...)

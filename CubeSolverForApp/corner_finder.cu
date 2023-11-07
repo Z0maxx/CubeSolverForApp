@@ -1,4 +1,4 @@
-#include "corner_finder.cpp"
+#include "corner_finder.cuh"
 
 __constant__ const Corner const_corners[8] =
 {

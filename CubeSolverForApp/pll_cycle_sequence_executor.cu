@@ -1,4 +1,4 @@
-#include "pll_cycle_sequence_executor.cpp"
+#include "pll_cycle_sequence_executor.cuh"
 
 __device__ void executePLLCycleSequence(const int cubeIdx, const uint2 crossIdx, const uint2 cornerIdx, const uint2 edgeIdx, const Notation sequence[], const int idx)
 {

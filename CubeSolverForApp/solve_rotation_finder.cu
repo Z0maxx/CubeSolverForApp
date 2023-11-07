@@ -1,4 +1,4 @@
-#include "solve_rotation_finder.cpp"
+#include "solve_rotation_finder.cuh"
 
 __constant__ SolvePiece solvePieces[4] =
 {

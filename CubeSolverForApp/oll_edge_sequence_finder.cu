@@ -1,4 +1,4 @@
-#include "oll_edge_sequence_finder.cpp"
+#include "oll_edge_sequence_finder.cuh"
 
 __device__ Notation* findOLLEdgeSequence(const bool match[4], const bool near[4])
 {

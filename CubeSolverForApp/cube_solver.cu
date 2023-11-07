@@ -1,4 +1,4 @@
-#include "cube_solver.cpp"
+#include "cube_solver.cuh"
 
 #ifdef __INTELLISENSE__
 #define CUDA_KERNEL(...)

@@ -2,18 +2,18 @@
 
 #include <string.h>
 
-#include "cube_rotations.cpp"
-#include "cube_printer.cpp"
-#include "ms_clock.cpp"
-#include "variables.cpp"
-#include "sequence_processor.cpp"
-#include "notation_translator.cpp"
-#include "cross_solver.cpp"
-#include "f2l_corner_solver.cpp"
-#include "f2l_edge_solver.cpp"
-#include "oll_cross_solver.cpp"
-#include "oll_edge_solver.cpp"
-#include "pll_cycle_solver.cpp"
-#include "pll_orient_solver.cpp"
+#include "cube_rotations.cuh"
+#include "cube_printer.cuh"
+#include "ms_clock.cuh"
+#include "variables.cuh"
+#include "sequence_processor.cuh"
+#include "notation_translator.cuh"
+#include "cross_solver.cuh"
+#include "f2l_corner_solver.cuh"
+#include "f2l_edge_solver.cuh"
+#include "oll_cross_solver.cuh"
+#include "oll_edge_solver.cuh"
+#include "pll_cycle_solver.cuh"
+#include "pll_orient_solver.cuh"
 
 extern void solve(const int cube[3][9][6]);

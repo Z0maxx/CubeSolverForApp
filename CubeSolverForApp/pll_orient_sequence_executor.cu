@@ -1,4 +1,4 @@
-#include "pll_orient_sequence_executor.cpp"
+#include "pll_orient_sequence_executor.cuh"
 
 __device__ void executePLLOrientSequence(const int cubeIdx, const uint2 crossIdx, const uint2 cornerIdx, const uint2 edgeIdx, const int idx, const int roundIdx)
 {

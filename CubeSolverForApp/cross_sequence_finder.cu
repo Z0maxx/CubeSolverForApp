@@ -1,4 +1,4 @@
-#include "cross_sequence_finder.cpp"
+#include "cross_sequence_finder.cuh"
 
 __device__ const Notation* findCrossSequence(const uint2 edge, const Color colors[6], const Color targetColor)
 {

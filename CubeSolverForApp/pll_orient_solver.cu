@@ -1,4 +1,4 @@
-#include "pll_orient_solver.cpp"
+#include "pll_orient_solver.cuh"
 
 #ifdef __INTELLISENSE__
 #define CUDA_KERNEL(...)

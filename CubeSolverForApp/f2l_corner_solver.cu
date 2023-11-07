@@ -1,4 +1,4 @@
-#include "f2l_corner_solver.cpp"
+#include "f2l_corner_solver.cuh"
 
 #ifdef __INTELLISENSE__
 #define CUDA_KERNEL(...)

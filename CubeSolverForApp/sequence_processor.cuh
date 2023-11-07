@@ -4,9 +4,9 @@
 
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
-#include "variables.cpp"
+#include "variables.cuh"
 #include "structs.h"
 #include "device_atomic_functions.h"
-#include "error_printer.cpp"
+#include "error_printer.cuh"
 
 extern void findSequence();

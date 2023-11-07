@@ -1,4 +1,4 @@
-#include "oll_cross_sequence_finder.cpp"
+#include "oll_cross_sequence_finder.cuh"
 
 __device__ const Notation* findOLLCrossSequence(const bool match[4])
 {

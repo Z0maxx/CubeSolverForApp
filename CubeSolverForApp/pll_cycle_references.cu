@@ -1,4 +1,4 @@
-#include "pll_cycle_references.cpp"
+#include "pll_cycle_references.cuh"
 
 __constant__ Reference const_PLLCycleReferences[4][3] =
 {

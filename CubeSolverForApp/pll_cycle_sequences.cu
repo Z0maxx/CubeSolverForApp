@@ -1,4 +1,4 @@
-#include "pll_cycle_sequences.cpp"
+#include "pll_cycle_sequences.cuh"
 
 __constant__ MatchSequence const_PLLCycleSequences[5] =
 {

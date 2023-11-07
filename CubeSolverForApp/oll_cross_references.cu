@@ -1,4 +1,4 @@
-#include "oll_cross_references.cpp"
+#include "oll_cross_references.cuh"
 
 __constant__ Reference const_OLLCrossReferences[4]
 {

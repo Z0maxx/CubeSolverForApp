@@ -1,7 +1,7 @@
 #pragma once
 
-#include "oll_cross_references.cpp"
-#include "oll_cross_sequence_finder.cpp"
-#include "oll_cross_sequence_executor.cpp"
+#include "oll_cross_references.cuh"
+#include "oll_cross_sequence_finder.cuh"
+#include "oll_cross_sequence_executor.cuh"
 
 extern void solveOLLCross();

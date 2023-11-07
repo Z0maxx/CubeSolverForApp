@@ -1,4 +1,4 @@
-#include "ms_clock.cpp"
+#include "ms_clock.cuh"
 
 int gettimeofday(struct timeval* tp, struct timezone* tzp)
 {

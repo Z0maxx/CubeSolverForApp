@@ -1,5 +1,5 @@
 #include "structs.h"
-#include "moves.cpp"
+#include "moves.cuh"
 
 __constant__ const  Move rotateLayerColorsRightCornerMoves[4] = {
     {

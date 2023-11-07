@@ -1,8 +1,8 @@
 #pragma once
 
-#include "corner_finder.cpp"
-#include "pll_orient_references.cpp"
-#include "pll_orient_sequence_executor.cpp"
-#include "error_printer.cpp"
+#include "corner_finder.cuh"
+#include "pll_orient_references.cuh"
+#include "pll_orient_sequence_executor.cuh"
+#include "error_printer.cuh"
 
 extern void solvePLLOrient();

@@ -1,4 +1,4 @@
-#include "notation_translator.cpp"
+#include "notation_translator.cuh"
 
 __host__ __device__ const TranslatedNotation translateNotation(Notation notation)
 {

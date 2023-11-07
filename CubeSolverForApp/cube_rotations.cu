@@ -1,4 +1,4 @@
-#include "cube_rotations.cpp"
+#include "cube_rotations.cuh"
 
 __shared__ Color shr_tempCubeColors[6][3][9][6];
 

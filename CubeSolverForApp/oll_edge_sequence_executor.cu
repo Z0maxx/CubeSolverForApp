@@ -1,4 +1,4 @@
-#include "oll_edge_sequence_executor.cpp"
+#include "oll_edge_sequence_executor.cuh"
 
 __device__ void executeOLLEdgeSequence(const int cubeIdx, const uint2 crossIdx, const uint2 cornerIdx, const uint2 edgeIdx, const Notation sequence[])
 {
