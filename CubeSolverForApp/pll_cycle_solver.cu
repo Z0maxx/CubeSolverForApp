@@ -1,4 +1,4 @@
-#include "pll_cycle_solver.cuh"
+#include "pll_cycle_solver.cpp"
 
 #ifdef __INTELLISENSE__
 #define CUDA_KERNEL(...)

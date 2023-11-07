@@ -1,4 +1,4 @@
-#include "cross_references.cuh"
+#include "cross_references.cpp"
 
 __constant__ Reference const_crossReferences[2] =
 {

@@ -1,5 +1,5 @@
-#include "variables.cuh"
-#include "cross_rotations.cuh"
+#include "variables.cpp"
+#include "cross_rotations.cpp"
 
 const Move layerCornerMoves[9][2][4] =
 {

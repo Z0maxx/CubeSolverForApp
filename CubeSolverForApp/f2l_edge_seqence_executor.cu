@@ -1,4 +1,4 @@
-#include "f2l_edge_sequence_executor.cuh"
+#include "f2l_edge_sequence_executor.cpp"
 
 __device__ void executeF2LEdgeSequence(const int cubeIdx, const uint2 crossIdx, const uint2 cornerIdx, const uint2 edgeIdx, const Notation sequence[], const int idx)
 {

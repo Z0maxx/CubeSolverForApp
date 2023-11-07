@@ -1,4 +1,4 @@
-#include "oll_edge_solver.cuh"
+#include "oll_edge_solver.cpp"
 
 #ifdef __INTELLISENSE__
 #define CUDA_KERNEL(...)

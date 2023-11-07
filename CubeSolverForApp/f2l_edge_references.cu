@@ -1,4 +1,4 @@
-#include "f2l_corner_references.cuh"
+#include "f2l_corner_references.cpp"
 
 __constant__ Reference const_F2LEdgeReferences[2] =
 {

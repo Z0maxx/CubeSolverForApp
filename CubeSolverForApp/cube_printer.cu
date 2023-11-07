@@ -1,4 +1,4 @@
-#include "cube_printer.cuh"
+#include "cube_printer.cpp"
 
 __host__ __device__ const char* getColor(const Color color)
 {

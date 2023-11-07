@@ -1,4 +1,4 @@
-#include "pll_cycle_sequence_finder.cuh"
+#include "pll_cycle_sequence_finder.cpp"
 
 __device__ const Notation* findPLLCycleSequence(const bool match[4])
 {

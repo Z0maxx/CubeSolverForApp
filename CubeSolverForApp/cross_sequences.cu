@@ -1,4 +1,4 @@
-#include "cross_sequences.cuh"
+#include "cross_sequences.cpp"
 
 __constant__ EdgeSolveSequence const_crossSequences[24] =
 {

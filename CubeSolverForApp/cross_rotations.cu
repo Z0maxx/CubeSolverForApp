@@ -1,5 +1,5 @@
-#include "variables.cuh"
-#include "cross_rotations.cuh"
+#include "variables.cpp"
+#include "cross_rotations.cpp"
 
 #ifdef __INTELLISENSE__
 #define CUDA_KERNEL(...)

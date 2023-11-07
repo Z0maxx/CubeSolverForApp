@@ -1,4 +1,4 @@
-#include "cross_solver.cuh"
+#include "cross_solver.cpp"
 
 #ifdef __INTELLISENSE__
 #define CUDA_KERNEL(...)

@@ -1,4 +1,4 @@
-#include "edge_finder.cuh"
+#include "edge_finder.cpp"
 
 __constant__ const Edge const_edges[12] =
 {

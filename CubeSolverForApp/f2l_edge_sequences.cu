@@ -1,4 +1,4 @@
-#include "f2l_edge_sequences.cuh"
+#include "f2l_edge_sequences.cpp"
 
 __constant__ EdgeSolveSequence const_F2LEdgeSequences[16] =
 {

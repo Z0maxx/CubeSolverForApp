@@ -1,4 +1,4 @@
-#include "pll_orient_references.cuh"
+#include "pll_orient_references.cpp"
 
 __constant__ Reference const_PLLOrientReference =
 {

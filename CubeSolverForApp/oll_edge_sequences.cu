@@ -1,4 +1,4 @@
-#include "oll_edge_sequences.cuh"
+#include "oll_edge_sequences.cpp"
 
 __constant__ MatchNearSequence const_OLLEdgeSequences[15] =
 {

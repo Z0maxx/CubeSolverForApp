@@ -1,4 +1,4 @@
-﻿#include "cube_solver.cuh"
+﻿#include "cube_solver.cpp"
 
 int main(int argc, char* argv[])
 {

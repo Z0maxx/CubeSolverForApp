@@ -1,4 +1,4 @@
-#include "oll_edge_references.cuh"
+#include "oll_edge_references.cpp"
 
 __constant__ Reference const_OLLEdgeTargetReferences[4] =
 {

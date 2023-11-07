@@ -1,4 +1,4 @@
-#include "f2l_corner_sequences.cuh"
+#include "f2l_corner_sequences.cpp"
 
 __constant__ CornerSolveSequence const_F2LCornerSequences[24] =
 {

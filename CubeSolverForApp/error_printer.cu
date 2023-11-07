@@ -1,4 +1,4 @@
-#include "error_printer.cuh"
+#include "error_printer.cpp"
 
 void printError(cudaError_t error)
 {

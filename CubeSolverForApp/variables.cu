@@ -1,4 +1,4 @@
-#include "variables.cuh"
+#include "variables.cpp"
 
 #ifdef __INTELLISENSE__
 #define CUDA_KERNEL(...)

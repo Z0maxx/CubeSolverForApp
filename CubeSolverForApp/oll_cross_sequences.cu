@@ -1,4 +1,4 @@
-#include "oll_cross_sequences.cuh"
+#include "oll_cross_sequences.cpp"
 
 __constant__ MatchSequence const_OLLCrossSequences[7]
 {
