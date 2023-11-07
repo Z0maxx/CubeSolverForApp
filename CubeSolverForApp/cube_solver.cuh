@@ -4,7 +4,6 @@
 
 #include "cube_rotations.cuh"
 #include "cube_printer.cuh"
-#include "ms_clock.cuh"
 #include "variables.cuh"
 #include "sequence_processor.cuh"
 #include "notation_translator.cuh"
