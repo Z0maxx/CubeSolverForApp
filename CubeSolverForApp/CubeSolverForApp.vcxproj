@@ -89,7 +89,6 @@
     <CudaCompile Include="f2l_edge_sequence_finder.cu" />
     <CudaCompile Include="f2l_edge_solver.cu" />
     <CudaCompile Include="kernel.cu" />
-    <CudaCompile Include="moves.cu" />
     <CudaCompile Include="ms_clock.cu" />
     <CudaCompile Include="notation_translator.cu" />
     <CudaCompile Include="oll_cross_references.cu" />
